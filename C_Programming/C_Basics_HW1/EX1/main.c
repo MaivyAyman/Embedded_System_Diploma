@@ -2,13 +2,13 @@
  * main.c
  *
  *  Created on: Oct 30, 2024
- *      Author: Eng - Mina Ayman
+ *      Author: Maivy Ayman
  */
 #include "stdio.h"
 
 void main (){
 
-	printf("helloo");
+	printf("Embedded System Diploma");
 
 }
 
